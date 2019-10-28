@@ -1,6 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: #9B7874;
-  font font-family: arial, sans-serif;
+  font-family: arial, sans-serif;
 }
 
 .wrapper {
